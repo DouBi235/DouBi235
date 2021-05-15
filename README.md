@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![Dell_Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=DouBi235&show_icons=true)
 ![Dell_Lee GitHub stats](https://github-readme-stats.vercel.app/api?username=DouBi235&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DouBi235&layout=compact)
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DouBi235&layout=compact)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
