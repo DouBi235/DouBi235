@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Dell_Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=DouBi235)](https://github.com/anuraghazra/github-readme-stats)
+![Dell_Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=DouBi235&show_icons=true)
+
